@@ -11,7 +11,7 @@ need to have the secret pictured.
 <img src="webhook.png" style="max-width:100%">
 
 Then whenever you push your website, it will show up on
-https://expo.baulab.info/2022-Fall/[username].  Customize your
+https://expo.baulab.info/2023-Fall/[username].  Customize your
 `index.html`.
 
 Your final project report will be a static HTML website that
